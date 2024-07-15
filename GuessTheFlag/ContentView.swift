@@ -167,7 +167,7 @@ struct ContentView: View {
     }
     func restartGame() {
         userScore = 0
-        questionsDone = 0
+        questionsDone = 2
     }
 }
 
